@@ -1,0 +1,42 @@
+.first
+{
+    width: 600px;
+    height: 200px;
+    margin-left: 100px;
+    display:inline-block;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: burlywood;
+    position: relative;
+
+}
+.img
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px 0px 0px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.p1
+{
+    width: 200px;
+    height: 200px;
+}
+.p2
+{
+   width: 400px;
+   height: 200px;
+   left: 100px;
+   position: absolute;
+   text-align: start;
+   padding: 10px;
+
+}
+.txt
+{
+    font-size: 20px;
+    margin-left: 200px;
+    top: 0; 
+}
